@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-﻿issue2
-=======
-﻿issue3
->>>>>>> issue3
-=======
-﻿issue2,issue2,issue2
->>>>>>> issue2
+﻿원숭이도 이해할 수 있는 Git 명령어
